@@ -30,6 +30,19 @@ The script:
 ```bash
 pip install numpy matplotlib
 
+2. Run the script:
+
+```bash
+python3 main.py
+```
+
+After running you will get:
+- console output with metrics (final value and overshoot)
+- plots showing:
+  - system response and setpoint
+  - control signal
+```
+
 
 ## Example use case
 
