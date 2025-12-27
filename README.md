@@ -58,5 +58,5 @@ This project can be used as:
 This project is intended for educational and research purposes only.
 The author is not responsible for any possible misuse of the code.
 ```
- is not responsible for any possible misuse of the code.
+
 
