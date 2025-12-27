@@ -1,3 +1,4 @@
+```markdown
 # pid-controller-simulation
 
 PID controller simulation for a second-order dynamic system using Python, NumPy and Matplotlib.
@@ -23,7 +24,6 @@ The script:
 - Matplotlib
 - control theory basics (PID, second order systems)
 
-```markdown
 ## How to run
 
 1. Install dependencies:
@@ -43,9 +43,6 @@ After running you will get:
 - plots showing:
   - system response and setpoint
   - control signal
-```
-
-
 
 ## Example use case
 
@@ -60,4 +57,6 @@ This project can be used as:
 
 This project is intended for educational and research purposes only.
 The author is not responsible for any possible misuse of the code.
+```
+ is not responsible for any possible misuse of the code.
 
