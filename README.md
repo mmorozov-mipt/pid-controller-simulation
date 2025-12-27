@@ -23,12 +23,14 @@ The script:
 - Matplotlib
 - control theory basics (PID, second order systems)
 
+```markdown
 ## How to run
 
 1. Install dependencies:
 
 ```bash
 pip install numpy matplotlib
+```
 
 2. Run the script:
 
@@ -42,6 +44,7 @@ After running you will get:
   - system response and setpoint
   - control signal
 ```
+
 
 
 ## Example use case
